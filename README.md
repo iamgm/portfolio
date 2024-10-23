@@ -1,5 +1,5 @@
-# Loading... 
 # [█--------------------] 7%
+#№ Loading... 
 #### Wait for a moment
 
 
