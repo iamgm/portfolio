@@ -1,8 +1,6 @@
-# Portfolio
-## Loading... 
-#### Wait for a moment
-
-# Progress: [█--------------------] 7%
+          ## Loading... 
+          #### Wait for a moment
+          [█--------------------] 7%
 
 ![image](https://github.com/user-attachments/assets/754500f9-1e62-4837-8899-77b3c40bbe56)
 
